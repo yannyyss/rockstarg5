@@ -12,8 +12,11 @@ Este usuario (Javich) agrego texto con una nueva seccion.
 # Seccion de Juanito
 Este otro usuario hizo un cambio.
 
+# Segunda demostracion
+Aqui esta el texto de otro cambio. Este no debe dar conflicto
+
 # Parrafo adicional, segunda demostracion
-Este cambio debe dar conflicto al ejecutar 
+Este cambio debe dar conflicto al ejecutar
 
 ```
 git push
