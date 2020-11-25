@@ -1,2 +1,2 @@
-salvador 
-merge2
+salvador
+salvador merge
