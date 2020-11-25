@@ -4,8 +4,6 @@
 
 Este es un proyecto de prueba
 
-Y cambio
-
 # Nueva Seccion
 Este usuario (Javich) agrego texto con una nueva seccion.
 
@@ -21,3 +19,6 @@ Este cambio debe dar conflicto al ejecutar
 ```
 git push
 ```
+
+# Agregue otra seccion
+Con contenido
