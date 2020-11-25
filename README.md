@@ -6,8 +6,10 @@ Este es un proyecto de prueba
 
 Y cambio
 
-# Seccion de Juanito
+# Nueva Seccion
+Este usuario (Javich) agrego texto con una nueva seccion.
 
-Este otro usuario hizo un cambio. 
+# Seccion de Juanito
+Este otro usuario hizo un cambio.
 
 
